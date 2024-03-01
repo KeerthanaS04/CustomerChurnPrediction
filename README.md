@@ -4,7 +4,7 @@
 -	Naïve Bayes getting the highest accuracy score of 0.502
 -	I have created my own model here by applying dense, batchnormalization, activation and dropout layers where I am getting an highest accuracy of 0.5716 and validation accuracy of 0.5063
 
-Algorithm	                    Accuracy	  Precision	   Recall	     F1
+Algorithm	                  - Accuracy ||	Precision ||Recall	  ||  F1
 -------------------------------------------------------------------
 
 Logistic Regression	        -  0.4994	 ||  0.49855 ||	  0.37897	|| 0.43062
